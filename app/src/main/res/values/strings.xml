@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HamsterGo</string>
+    <string name="SignInTitle">SignIn!</string>
+    <string name="log_inBotton">LogIn</string>
+</resources>
